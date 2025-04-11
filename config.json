@@ -1,7 +1,25 @@
 {
-  "contentType": "model",
-  "modelUrl": "https://logan1420.github.io/AR-Content/Models/Car.glb",
-  "position": [0, 0, 0],
-  "rotation": [0, 0, 0],
-  "scale": [0.5, 0.5, 0.5]
+  "models": [
+    {
+      "id": "1",
+      "name": "Orange Car",
+      "url": "https://logan1420.github.io/AR-Content/Models/Car.glb",
+      "position": [0, 0, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    {
+      "id": "2",
+      "name": "Green SUV",
+      "url": "https://logan1420.github.io/AR-Content/Models/Suv.glb",
+      "position": [0, 0, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    {
+      "id": "3",
+      "name": "Brown Tow Truck",
+      "url": "https://logan1420.github.io/AR-Content/Models/Truck.glb",
+      "position": [0, 0, 0],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  ]
 }
